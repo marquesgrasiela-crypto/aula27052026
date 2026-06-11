@@ -11,3 +11,9 @@ pedro.peso = 100;
 pedro.altura = 1.6;
 
 console.log(pedro.imc());
+
+const maria = new Pessoa();
+maria.peso = 96;
+maria.altura = 1.68;
+
+console.log(maria.imc());
